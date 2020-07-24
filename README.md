@@ -11,7 +11,7 @@
 #### 通过 [homebrew](https://brew.sh/) 安装
 
 - [**xterm-player**](https://github.com/JavaCS3/xterm-player)，解决terminal录屏不能复制的问题
-
+- [**tbify**](https://github.com/fjc0k/tbify) 使用 淘宝 NPM 镜像 加速包管理工具安装依赖的速度。
 
 ### Mac软件
 
