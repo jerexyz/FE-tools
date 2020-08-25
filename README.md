@@ -18,6 +18,7 @@
 - [**Flycut**](https://github.com/TermiT/Flycut) Mac上开源的免费剪切板管理工具
 - [*etcher*](https://www.balena.io/etcher/) Mac制作U盘启动盘工具
 - [*OpenInTerminal*](https://github.com/Ji4n1ng/OpenInTerminal)
+- [*uTools*](https://u.tools/)
 
 
 ### Chrome Plugins
